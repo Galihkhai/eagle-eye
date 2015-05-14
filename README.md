@@ -1,4 +1,4 @@
-![alt tag](http://7-themes.com/data_images/out/42/6913762-juventus-wallpaper.jpg)
+![alt tag](http://www.surreysportspark.co.uk/media/news/106618_juventus_large.png)
 import java.util.Scanner;
 public class coba 
 {
